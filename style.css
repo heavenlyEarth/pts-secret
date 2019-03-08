@@ -49,10 +49,10 @@ ul {
 .Column
 {
     display: table-cell;
-    background-color: #52ca2b;
+    background-color: #009649;
     vertical-align: middle;
     border-radius: 20px;
-    border: 12px #6eff00 outset;
+    border: 12px #22b14c outset;
   }
 
 
